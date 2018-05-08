@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class jvmTest {
-	byte[] b=new byte[1*1024*1024];//mb
+	byte[] b=new byte[1*1024*1024];//mbwww
 	public static void main(String[] args) {
 		List<jvmTest> list=new ArrayList<jvmTest>();
 		int count=0;
